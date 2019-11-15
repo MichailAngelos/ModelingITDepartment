@@ -1,7 +1,7 @@
 package Models;
 
 
-public class Foititis {
+public class Foititis extends Xristis{
 
     private int AM;
     private int eksamino;
@@ -10,8 +10,12 @@ public class Foititis {
 
     private static Foititis studentInstance = null;
 
-    public Foititis(){}
-    public Foititis(int AM,int eksamino,int etosEisagogis,double deiktisProodou){
+    public Foititis(){
+        super();
+    }
+    public Foititis(String onoma ,String epitheto,int tilefono , String dieuthinsi,int AM,int eksamino,int etosEisagogis,double deiktisProodou){
+        super(onoma, epitheto, tilefono, dieuthinsi);
+
 
         this.AM=AM;
         this.eksamino=eksamino;

@@ -26,7 +26,9 @@ private static Xristis userInstance = null;
 
 
 }
-Xristis(){}
+Xristis(String onoma, String epitheto, int tilefono, String dieuthinsi){}
+
+    public Xristis() { }
 
     public void login() {
         userInstance = this;
