@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4860ecb-3186-401c-82b1-1656595420ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Models/DilosiMathimaton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Grammatia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Vathmologies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Foititis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Foititis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Xristis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Xristis.java" afterDir="false" />
-    </list>
+    <list default="true" id="d4860ecb-3186-401c-82b1-1656595420ec" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573825858080</updated>
-      <workItem from="1573825859643" duration="6209000" />
+      <workItem from="1573825859643" duration="6452000" />
     </task>
     <task id="LOCAL-00001" summary="Update IdrimaII">
       <created>1573831568192</created>
@@ -81,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573831568192</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Models">
+      <created>1573832824940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573832824940</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update IdrimaII" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update IdrimaII" />
+    <MESSAGE value="Update Models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Models" />
   </component>
 </project>
